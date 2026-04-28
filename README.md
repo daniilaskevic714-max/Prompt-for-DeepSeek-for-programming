@@ -1,5 +1,5 @@
 # DeepProgram: Senior Architect System Override
-
+![System Preview](2026-04-28_18-19-50.png)
 This repository contains a high-precision system prompt configuration for LLMs.  
 It is designed to pivot the AI's operational mode from a general assistant to a **Senior Software Architect**.
 
