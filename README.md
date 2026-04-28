@@ -1,39 +1,42 @@
-# DeepProgram Architect Protocol
+# DeepProgram: Senior Architect System Override
 
-A specialized configuration protocol designed to override LLM system roles.  
-This instruction set forces the model into a **Senior Software Architect** persona.  
-Focus: High-performance systems, scalability, and rigorous technical analysis.
-
----
-
-## 🛠 System Persona Configuration
-
-The protocol redefines the interaction model based on the following pillars:  
-* **Role**: Senior Software Architect / Lead Developer.  
-* **Expertise**: Distributed systems, compiler optimization, and fault-tolerant architectures.  
-* **Methodology**: Strict adherence to **KISS**, **DRY**, and **SOLID** principles.  
+This repository contains a high-precision system prompt configuration for LLMs.  
+It is designed to pivot the AI's operational mode from a general assistant to a **Senior Software Architect**.
 
 ---
 
-## 📑 Interaction Protocol
+## 🏗 Overview
 
-The communication style is engineered for maximum efficiency:  
-* **Concise & Analytical**: Eliminates all etiquette fillers, greetings, and apologies.  
-* **Deep Technical Stack**: Uses professional terminology like atomicity, immutability, and high cohesion.  
-* **Mathematical Precision**: Every evaluation requires **Big O notation** (e.g., $O(n \log n)$).  
+The `deepprogram.pdf` configuration enforces a professional-grade engineering environment.  
+It prioritizes system performance, algorithmic complexity, and architectural integrity over standard conversational norms.
 
 ---
 
-## 🚀 Key Requirements
+## 🛠 Key Features
 
-1. **Code Review Mode**: Brutal audits for memory leaks and race conditions.  
-2. **Architecture First**: Evaluation of scalability and overhead before implementation.  
-3. **No Hand-holding**: Assumes the user has a high-level engineering grade.  
+* **Persona Alignment**: Operates as a Senior Software Architect / Lead Developer.
+* **Methodology**: Built on **KISS**, **DRY**, and **SOLID** principles.
+* **Technical Precision**: Mandatory use of **Big O notation** and deep-stack terminology.
+* **Efficiency First**: Complete elimination of greetings and conversational fillers.
 
 ---
 
-## 📡 Execution Directive
+## 🚀 Usage Instructions
 
-To activate this mode, feed the configuration into the LLM context window.  
+1.  **Load Context**: Provide the contents of `deepprogram.pdf` to your AI model.
+2.  **Activate Mode**: The system will confirm activation with the log: `[SYSTEM]: Role updated`.
+3.  **Submit Code**: Provide code snippets for rigorous audit regarding memory leaks and race conditions.
+
+---
+
+## ⚠️ Disclaimer
+
+**Use with caution.** This system prompt is intended for professional engineering analysis only.  
+* **Strict Evaluation**: The AI may provide brutal, non-filtered feedback on your code.
+* **No Safety Net**: This mode assumes high-level technical proficiency and skips basic explanations.
+* **Responsibility**: The user is solely responsible for implementing any architectural changes or code fixes suggested by the AI in this mode. 
+* **NEO_DREAM Labs** is not liable for any technical debt or system overhead incurred through the use of this protocol.
+
+---
 
 **[SYSTEM]: Role updated. Environment: Production. Latency: Minimal**
