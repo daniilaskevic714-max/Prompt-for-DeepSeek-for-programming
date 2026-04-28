@@ -5,11 +5,21 @@ It is designed to pivot the AI's operational mode from a general assistant to a 
 
 ---
 
+## ---
+
 ## 📸 System Demonstration
 
-Below is a preview of the **Senior Architect Mode** in action, showcasing deep technical analysis and architectural planning:
+### 1. Activation & Role Alignment
+The system confirms the protocol override and immediately adopts an analytical, filler-free persona:
+
+![Role Activation](2026-04-28_18-19-50.png)
+
+### 2. Architectural Analysis
+The model executes deep technical planning, including stack selection and complexity estimation ($O(\log n)$):
 
 ![Architecture Preview](2026-04-28_18-20-57.png)
+
+---
 
 ---
 
