@@ -3,7 +3,7 @@
 This repository contains a high-precision system prompt configuration for LLMs.  
 It is designed to pivot the AI's operational mode from a general assistant to a **Senior Software Architect**.
 
----
+
 
 ## ---
 
